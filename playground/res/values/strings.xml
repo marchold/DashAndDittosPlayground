@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="app_name">Dash&amp;Ditto: kids Playground</string>
+<string name="buyNow">Limited Time Offer</string>
+<string name="buyNowButton">Buy Now</string>
+<string name="noThanksButton">No. Thanks!</string>
+<string name="unlockWithReview">In order to get more <b>5 star reviews</b>, we are temporarily giving away <b>free copies!</b>\nClick below to review &amp; you\'ll unlock the full version.\n Thank you for your good reviews!</string>
+<string name="reviewButton">Review!</string>
+<string name="freeplayremining">You have %s minutes of free play remaining. Purchasing the full version gives you unlimited play.</string>
+</resources>
